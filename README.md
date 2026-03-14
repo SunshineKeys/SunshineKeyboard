@@ -7,9 +7,12 @@ I spent years on the ground floor of healthcare — processing Medicare, Medicai
 Now I'm building the technical skills to analyze that data at scale. I write Python scripts that automate what I used to do by hand, and I'm working toward roles where my pharmacy operations knowledge meets real data analysis — because someone who understands both the data AND the workflow it came from is hard to find.
 
 ---
-🏥 **Featured Project: Pharmacy Claims Analysis Pipeline**
+
+## 🏥 Featured Project: Pharmacy Claims Analysis Pipeline
+
 Full end-to-end healthcare data pipeline — SQL, Pandas, risk stratification, and audit-ready reports built on a synthetic Medicaid claims dataset.
-👉 https://github.com/SunshineKeys/Pharmacy-Claims-Pipeline
+👉 [github.com/SunshineKeys/Pharmacy-Claims-Pipeline](https://github.com/SunshineKeys/Pharmacy-Claims-Pipeline)
+
 ---
 
 ## 📊 Data Analyst Projects
@@ -91,6 +94,6 @@ I'm especially interested in PBM companies, health insurers, and managed care or
 I'm always happy to talk with people in healthcare analytics, pharmacy operations, or anyone who values bringing real-world experience to data work.
 
 📧 meganmerrigan89@gmail.com
-💼 [LinkedIn](www.linkedin.com/in/megan-merrigan-a824a1265)
+💼 [LinkedIn](https://www.linkedin.com/in/megan-merrigan-a824a1265)
 
 Thanks for stopping by. More projects incoming. 🌻
